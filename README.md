@@ -1,20 +1,23 @@
-# PROJECT: ROSSINANTE
+# PROJECT: BREAD_DEFENSE
 
 > [!NOTE]
 > Development completed
 
-## Information
+## 정보
 - 3학년 1학기 게임소프트웨어개발2 프로젝트
 
-### Developer
-- Team NOGAK-KIMCHI, Department of Game Design and Development, Sangmyung University
+### 제작
+- 상명대학교 게임전공 - 팀 노각김치
 
-### Platform
-- Windows
+### 플랫폼
+- 윈도우
 
-### Genre
-- Third-Person Shooter
-- Role Playing
+### 장르
+- 타일 기반 타워 디펜스
 
-### Engine
-- Unreal Engine 4.27.2
+### 엔진
+- 유니티
+
+### 트레일러 영상  
+
+[![Release Video](https://img.youtube.com/vi/VSIjhy08t2c/hqdefault.jpg)](https://youtu.be/VSIjhy08t2c))
